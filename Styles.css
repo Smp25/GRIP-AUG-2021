@@ -1,0 +1,60 @@
+.navbar{
+    color: #fbfdfd;
+    background: #f7f6f6;
+    font-weight: 700;
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+}
+
+.navbar-toggler-icon{
+    color: #00adb5;
+}
+
+.container-fluid{
+    padding-bottom: 70px;
+    margin: auto;
+    background: #fffefe;
+}
+
+.th1{
+    margin: auto;
+    padding: 3rem 1rem 3rem;
+    color: #949494;
+    font-size: 3rem;
+    text-align: center;
+}
+
+p{  
+    color: #3c415c;
+    margin: auto;
+    padding: 0 1rem 0;
+}
+.img1{
+    margin-top: none;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    text-align: center;
+}
+/*.btn{
+    margin-left: 200px;
+}*/
+.part-1{
+    padding-top: 2rem;
+    justify-content: center;
+    margin: auto;
+}
+.footer{
+    background: #fcf9f9;
+    margin: none;
+    padding: 1.6% 5%;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.fa{
+    margin:15px 10px;
+}

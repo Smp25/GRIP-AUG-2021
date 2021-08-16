@@ -1,3 +1,3 @@
 # GRIP-AUG-2021
-Web Developement Internship
+Web Developer Internship
 TASK #3
